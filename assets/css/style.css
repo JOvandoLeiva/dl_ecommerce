@@ -20,7 +20,7 @@ p{
 
 .btn{
     width: 100%;
-    background: darkblue;
+    background: #585f64;
     color: white;
 }
 
@@ -60,6 +60,7 @@ list-style: none;
     font-size: xx-large;
     text-align: center;
     height: 50px;
+    font-family: 'Cinzel', serif;
  
 }
 .sidebar{
