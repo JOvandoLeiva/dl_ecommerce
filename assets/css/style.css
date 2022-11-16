@@ -6,7 +6,7 @@
     }
 
 body{
-    background-color: lightgrey;
+    background-color: #ececec;
 }
 
 img{
@@ -71,7 +71,7 @@ list-style: none;
 }
 .footer{
     grid-area: footer;
-    background-color: darkblue;
+    background-color: #1c2125;
     color: white;
     font-size: x-large;
     text-align: center;
